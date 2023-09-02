@@ -1,5 +1,5 @@
-#DEMO
--[Live Project](https://64f2db9adbe81d4e40f3c0fb--fabulous-fox-6f6180.netlify.app/cart)
+# DEMO
+-[Live Project](https://fabulous-fox-6f6180.netlify.app/)
 # shopapp-redux
 React Web App with Cart functionality implemented with RTK Redux
 #### Description
